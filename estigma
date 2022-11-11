@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-10T23:57:03.916Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="EH3TWpKKSA3Nq4uhmr_s" version="20.5.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-11-11T02:37:33.844Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="cwq223fmCONqXfxdAGi7" version="20.5.1" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1065" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -326,7 +326,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nAz_CBgaEJtVgkNDMD4a" name="Página-3">
-    <mxGraphModel dx="1278" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1826" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -455,7 +455,7 @@
           <mxGeometry x="330" y="151" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="h4k0gy3PdLRg0Kq0pwlK-57" value="Possibilidade de vincular conta a um cliente existente" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="h4k0gy3PdLRg0Kq0pwlK-18">
-          <mxGeometry x="370" y="251" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="251" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h4k0gy3PdLRg0Kq0pwlK-62" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=-0.023;entryY=0.393;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.6;exitY=0.02;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="h4k0gy3PdLRg0Kq0pwlK-18" source="h4k0gy3PdLRg0Kq0pwlK-49" target="h4k0gy3PdLRg0Kq0pwlK-51">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
