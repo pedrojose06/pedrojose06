@@ -8,7 +8,7 @@ Aprendendo constantemente com a vida e com pessoas ao meu redor.
 
 <p align="left"> 
 Meu nome é Pedro, mas sou conhecidos por vários apelidos como: Pedrin, Pedrao, Ronald, Ronaldo, Jóse (Alguns são explicações pra um dia de bate papo). 
-Sou um dev que ama a vertente de <strong>Fron-end</strong> da programação e tem um pézinho em <strong>Metologias ágeis</strong>, principalmente utilizando o framework <strong>Scrum</strong>.
+Sou um dev que ama a vertente de <strong>Frontend</strong> da programação e tem um pézinho em <strong>Metologias ágeis</strong>, principalmente utilizando o framework <strong>Scrum</strong>.
 
 </p>
 
