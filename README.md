@@ -20,7 +20,7 @@ Sou um dev que ama a vertente de <strong>Frontend</strong> da programação e te
   <a href="mailto:pedrojosetm16@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:pedrojosetm16@gmail.com" /></a>
 
-  <a href="www.linkedin.com/in/pedro-jt-moraes/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/pedro-jt-moraes/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/pedro-jt-moraes/" /></a>
 
   <a href="https://api.whatsapp.com/send?phone=5511994091820" alt="WhatsApp">
