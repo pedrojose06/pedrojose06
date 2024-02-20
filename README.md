@@ -47,3 +47,5 @@ Sou um dev que ama a vertente de <strong>Frontend</strong> da programação e te
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
+<div style="display:flex; justify-content:center; width:100vw"><a href="https://app.daily.dev/pedrojose06"><img src="https://api.daily.dev/devcards/v2/l6SRVYeOMsJMCDVNnuoC1.png?type=default&r=dgh" width="356" alt="Pedro José Trindade de Moraes's Dev Card"/></a></div>
+
